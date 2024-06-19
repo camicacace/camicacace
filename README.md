@@ -7,6 +7,7 @@ My name is Camila,
 - 📫 How to reach me:
   
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-belen-cacace-4804b7238/)
+[![Email badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilacacace128@gmail.com)
 
 
 
