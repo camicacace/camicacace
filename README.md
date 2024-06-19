@@ -12,5 +12,5 @@ My name is Camila,
 
 📈 GitHub Stats:
 
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&theme=radical)
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camicacace&show_icons=true&theme=radical)
 
