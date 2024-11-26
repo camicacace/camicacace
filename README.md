@@ -20,4 +20,6 @@ My name is Camila,
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 🚀 Most Used Languages
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camicacace&layout=compact&langs_count=6)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camicacace&layout=compact&langs_count=6)
+
