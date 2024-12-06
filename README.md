@@ -1,9 +1,10 @@
-Hi there 👋
+### Hi there 👋
 
-My name is Camila,
+My name is **Camila**,
 
-- 🌱 I’m currently a software engineering student in fifth year.
-- 📚 I'm constantly learning new technologies and improving my skills.
+- 🌱 I’m currently a **Software Engineering** student in my fifth year at **Universidad Nacional de Mar del Plata**.
+- 💻 My focus is on **Full Stack Development**, and I’m passionate about improving in both **front-end** and **back-end** technologies.
+- 📚 I’m always exploring new frameworks and technologies to stay ahead and expand my development skills.
   
 🔗 Connect with me:
   
